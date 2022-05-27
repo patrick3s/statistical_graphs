@@ -1,7 +1,9 @@
 name: statistical_graphs
 description: Package to display static graphs for data analysis.
-version: 0.0.1
-#homepage: 
+version: 1.0.0
+authors:
+  - "Patrick Soares <tk_patrick@hotmail.com>"
+homepage: https://github.com/patrick3s/statistical_graphs
 
 environment:
   sdk: ">=2.17.0 <3.0.0"

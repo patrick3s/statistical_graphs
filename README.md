@@ -13,6 +13,6 @@ and the Flutter guide for
 ## Example
 
 
-![alt text](https://github.com/patric3s/statistical_graphs/blob/v1.0.1/assets/script_vertical_bar.png) ![alt text](https://github.com/patric3s/statistical_graphs/blob/v1.0.1/assets/vertical_bar.jpg)
+![alt text](https://github.com/patrick3s/statistical_graphs/blob/v1.0.1/assets/script_vertical_bar.png) ![alt text](https://github.com/patrick3s/statistical_graphs/blob/v1.0.1/assets/vertical_bar.jpg)
 
 
